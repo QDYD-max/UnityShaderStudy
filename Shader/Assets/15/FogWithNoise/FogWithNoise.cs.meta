@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 921443bbf5f8b63439a3c05063ff37dc
+timeCreated: 1613994847
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fogShder: {fileID: 4800000, guid: 7bd387ac325853742b03a7f2319857ad, type: 3}
+  - noiseTexture: {fileID: 2800000, guid: 78ef8513207745d45b25e06bfca03688, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

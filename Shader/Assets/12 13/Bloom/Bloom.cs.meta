@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2a7928aa87aeaa046917c375a57c8079
+timeCreated: 1613408330
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bloomShader: {fileID: 4800000, guid: ea92b6fda525edf41a161d306ab11c32, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Scene_5_2.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\five\unity\ShaderStudy\Scene_5_2\.idea\.idea.Scene_5_2\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

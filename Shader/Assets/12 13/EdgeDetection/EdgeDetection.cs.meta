@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: de374ddd908445744bca162057647d48
+timeCreated: 1613365421
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - edgfeDetecShader: {fileID: 4800000, guid: 8d3c6fe871504d9478c0b9ce500c2de9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
