@@ -97,6 +97,7 @@
      <None Include="Assets\8\AlphaBlend.shader" />
      <None Include="Assets\7_2\NormalMapTangentShader.shader" />
      <None Include="Assets\12 13\EdgeDetectNormalsAndDepth\EdgeDetectNormalsAndDepth.shader" />
+     <None Include="Assets\6_4\HalfLambertShader.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/UnityEditor/5.6.7f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -151,5 +151,5 @@ Shader "Unlit/AttenuationAndShadow"
 
 		}
 	}
-	Fallback "Off"
+	Fallback "Specular"
 }

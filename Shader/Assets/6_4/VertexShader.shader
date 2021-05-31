@@ -17,6 +17,7 @@ Shader "Unlit/VertexShader"
 			#pragma vertex vert
 			#pragma fragment frag
 			#include "Lighting.cginc"
+			#include "UnityCG.cginc"
 
 			fixed4 _Diffuse;
 
@@ -36,7 +37,7 @@ Shader "Unlit/VertexShader"
 				fixed3 ambient = UNITY_LIGHTMODEL_AMBIENT.xyz;
 				
 				fixed3 worldLight = normalize(_WorldSpaceLightPos0.xyz);
-				fixed3 worldNormal = normalize(mul(v.normal,(fixed3x3)unity_WorldToObject));
+				fixed3 worldNormal = normalize(UnityObjectToWorldNormal(v.normal));
 				
 				fixed3 diffuse = _LightColor0.rgb * _Diffuse.rgb * saturate(dot(worldNormal,worldLight));
 				 
